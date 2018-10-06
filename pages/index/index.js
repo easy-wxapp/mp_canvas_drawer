@@ -139,7 +139,7 @@ Page({
           duration: 2000
         })
       }
-  })
+    })
   },
   eventGetImage (event) {
     console.log(event)
